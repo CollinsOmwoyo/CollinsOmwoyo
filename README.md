@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CollinsOmwoyo
-- 👀 I’m interested in data science, software development, and learning.
+- 👀 I’m interested in data science, software development, and machine learning.
 - 🌱 I’m currently learning Perl (NOv 22).
 - 💞️ I’m looking to collaborate on projects that have interesting learning paths for beginners to the industry.
 - 📫 How to reach me Email: collinsomwoyo@gmail.com
